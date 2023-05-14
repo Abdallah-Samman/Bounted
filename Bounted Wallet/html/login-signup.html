@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Login</title>
+  <script src="https://kit.fontawesome.com/099a75ced2.js" crossorigin="anonymous"></script>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="../Assets/Style/Style.css">
+
+</head>
+
+<body>
+  <section class="login-signup">
+  <div class="container">
+    <div class="forms-container">
+      <div class="signin-signup">
+        <form action="" class="sign-in-form">
+          <h2 class="title">sign in</h2>
+          <div class="input-field">
+            <i class="fas fa-user"></i>
+            <input type="text" placeholder="Username" required>
+          </div>
+          <div class="input-field">
+            <i class="fas fa-lock"></i>
+            <input type="password" placeholder="Password" required>
+          </div>
+          <input type="submit" value="Login" class="btn solid">
+          <p class="social-text"></p>
+        </form>
+        <form action="" class="sign-up-form">
+          <h2 class="title">sign up</h2>
+          <div class="input-field">
+            <i class="fas fa-phone-alt"></i>
+    <input type="tel" id="phone" placeholder="Phone Number" name="Phone" value="" required pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" required>
+             <input type="text" >
+          </div>
+          <div class="input-field">
+            <i class="fas fa-envelope"></i>
+            <input type="text" placeholder="Email" required>
+          </div>
+          <div class="input-field">
+            <i class="fas fa-user"></i>
+            <input type="text" placeholder="Username" required>
+          </div>
+          <div class="input-field">
+            <i class="fas fa-lock"></i>
+            <input type="password" placeholder="Password" required>
+          </div>
+          <div class="input-field">
+            <i class="fas fa-lock"></i>
+            <input type="password" placeholder="confirm password" required>
+          </div>
+          <input type="submit" value="Sign up" class="btn solid">
+          <p class="social-text"></p>
+        </form>
+      </div>
+    </div>
+
+    <div class="panels-container">
+      <div class="panel left-panel">
+        <div class="content">
+          <h3>New Here?</h3>
+          <p>Sign up now for free and start Sending cash and shopping with one easy account </p>
+          <button class="btn transparent" id="sign-up-btn">Sign up</button>
+          <button class="btn transparent"><a href="index.html">Home</a></button>
+        </div>
+        <img src="../Assets/img/undraw_wallet_aym5.svg" class="image" alt="">
+      </div>
+
+      <div class="panel right-panel">
+        <div class="content">
+          <h3>One of us?</h3>
+          <p >Log in now and start sending and reciving cash with one easy account </p>
+          <button class="btn transparent" id="sign-in-btn">Sign in</button>
+          <button class="btn transparent"><a href="index.html">Home</a></button>
+        </div>
+        <img src="../Assets/img/undraw_make_it_rain_iwk4.svg" class="image" alt="">
+      </div>
+    </div>
+  </div>
+<script src="../Assets/Js/login.js"></script>
+</section>
+</body>
+
+</html>
+
+
+
