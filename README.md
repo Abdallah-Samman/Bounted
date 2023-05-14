@@ -40,14 +40,13 @@ We encourage you to explore the full range of Bounted's features by downloading 
 To run the application on your local machine, you need to follow these steps:
 
 1. Clone the repository using `git clone https://github.com/VulnMaker/Bounted.git`
-2. Move the code to the `htdocs` folder of your XAMPP installation.
+2. Move the code in the `Bounted Wallet` folder to the `htdocs` folder of your XAMPP installation.
 3. Start the Apache and MySQL servers in XAMPP.
 4. Open a browser and go to `localhost/phpmyadmin`.
 5. Create a new database named `bounted`.
-6. Import the `bounted.sql` file located in the `database` folder.
-7. In the `config` folder, rename the `config-sample.php` file to `config.php`.
+6. Import the `bounted.sql` file located in the `Bounted Wallet` folder.
 8. Edit the `config.php` file and change the database connection settings to match your local MySQL server.
-9. Open a browser and go to `localhost/Bounted`.
+9. Open a browser and go to `localhost/Bounted Wallet/html/index.html`.
 
 ## Technologies Used
 
