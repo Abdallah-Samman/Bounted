@@ -1,6 +1,7 @@
 # Bounted
 
 Bounted is a Fintech Eco-system that covers personal and corporate financial services, making it easy and secure to manage your finances. You can access Bounted through your browser or smartphone, and it can replace cash for all your transactions. The application provides a range of features, including P2P transactions, auto-transfers, automatic notifications, and automated bill payments. You can also set limits and analyze your spending to stay within your budget. With Bounted, you can gain points for every transaction that you can redeem for cashback or offers. 
+You can find the full documentation in the following link: https://docs.google.com/document/d/1pP33z-wGlTEsjgmtbfN5NVr0LeHTRxhJXO0lHEwjPXw/edit?usp=sharing
 
 ## Features
 
