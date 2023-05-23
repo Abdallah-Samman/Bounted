@@ -1,7 +1,15 @@
 # Bounted
 
+<img src="https://github.com/VulnMaker/Bounted/blob/main/Bounted%20Wallet/Assets/img/demoimage.png">
+
 Bounted is a Fintech Eco-system that covers personal and corporate financial services, making it easy and secure to manage your finances. You can access Bounted through your browser or smartphone, and it can replace cash for all your transactions. The application provides a range of features, including P2P transactions, auto-transfers, automatic notifications, and automated bill payments. You can also set limits and analyze your spending to stay within your budget. With Bounted, you can gain points for every transaction that you can redeem for cashback or offers. 
-You can find the full documentation in the following link: https://docs.google.com/document/d/1pP33z-wGlTEsjgmtbfN5NVr0LeHTRxhJXO0lHEwjPXw/edit?usp=sharing
+
+You can find more in the following links: 
+
+- [Bounted Documentation](https://docs.google.com/document/d/1pP33z-wGlTEsjgmtbfN5NVr0LeHTRxhJXO0lHEwjPXw/edit?usp=sharing)
+- [Vedio Demo](https://drive.google.com/file/d/1dN9UQ6j3vH4eUvbtMh6Vrl0xzdecz2S_/view?usp=sharing)
+
+
 
 ## Features
 
@@ -29,6 +37,7 @@ You can find the full documentation in the following link: https://docs.google.c
 Sure, here's an updated section for the README.md that clarifies the differences between the demo and the full business model:
 
 ## Demo Limitations
+
 
 Please note that the demo provided only covers a subset of the features offered by Bounted. The demo currently allows you to register an account, deposit money, and transfer funds to other Bounted wallets. However, the full Bounted platform provides a comprehensive Fintech Eco-system that covers personal and corporate financial services.
 
