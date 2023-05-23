@@ -78,3 +78,4 @@ This project is licensed under the MIT License. You can view the full license te
 - [Abdullah Mohamed Abdelhamed](https://github.com/VulnMaker) (Web development and business development)
 - [Aya Hisham Fathy](https://github.com/Sephirea) (Web Designer)
 - Abdallah Hassan Samman (Web Development and business development)
+- Mennatalla Alaa Mohmed (Business Development)
